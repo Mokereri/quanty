@@ -2,7 +2,13 @@
 # coding: utf-8
 
 # In[1]:
-
+# Requirements
+streamlit
+plotly
+pandas
+yfinance
+ta
+pytz
 
 import streamlit as st
 import plotly.express as px
